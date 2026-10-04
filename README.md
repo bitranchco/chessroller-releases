@@ -1,6 +1,6 @@
 # chessroller-releases
 
-Release artifacts for ChessRoller: the installers, and the `latest.yml` /
+Release artifacts for [ChessRoller](https://chessroller.com): the installers, and the `latest.yml` /
 `latest-mac.yml` update feeds the app's auto-updater reads. Downloads are on
 the [releases page](../../releases).
 
